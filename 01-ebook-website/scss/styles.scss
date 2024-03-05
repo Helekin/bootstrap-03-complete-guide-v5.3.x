@@ -1,5 +1,19 @@
-$primary: #333;
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
 
-body {
-  background-color: $primary;
+.header {
+  background: url(../img/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 1000px) {
+  .hero .image-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .hero .text-container {
+    text-align: center;
+  }
 }

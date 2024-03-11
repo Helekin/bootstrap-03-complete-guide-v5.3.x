@@ -1,6 +1,6 @@
 ## About The Project
 
-Greetings! Here, you'll find a collection of exercises derived from the Udemy course "Bootstrap 5 From Scratch | Build 5 Modern Websites" by instructor Brand Traversy. The course was last updated in July 2021.
+Greetings! Here, you'll find a collection of exercises derived from the Udemy course "Bootstrap 5 From Scratch | Build 5 Modern Websites" by instructor Brand Traversy. The course was last updated in June 2023.
 
 - [Udemy Instructor](https://www.udemy.com/user/brad-traversy/)
 - [Udemy Course](https://www.udemy.com/course/bootstrap-from-scratch/)
